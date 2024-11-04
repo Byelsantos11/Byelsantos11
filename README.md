@@ -8,14 +8,14 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
   - HTML5 🌐
   - CSS3 🎨
   - JavaScript 📜
-  - bootstrap
+- 🎉 Bootstrap
 
 - **Backend**:
   - Python 🐍
   - Django 🚀
   - APIs RESTful 🔗
-  - ☕ Java
-  - 🌱 Spring Boot
+  - Java☕
+  - Spring Boot 🌱
 
 - **Ferramentas**:
   - Git/GitHub 🛠️
