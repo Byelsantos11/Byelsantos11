@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou o Byelsantos11! 🌟
 
 ## 🛠️ Sobre Mim
 Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! 💻✨ Adoro trabalhar com tecnologias web e explorar novos desafios. Meu foco principal é o desenvolvimento backend com Java e SpringBoot, mas também gosto de me aventurar no Banco de Dados.
