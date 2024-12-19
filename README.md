@@ -17,6 +17,14 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
   - Java☕
   - Spring Boot 🌱
 
+  -  **Banco de Dados**:
+  -  MySQL 🐬
+  -  SQL 🖥️ 
+  -  Cassandra 🧱
+  -  MongoDB 🍃
+
+ 
+
 - **Ferramentas**:
   - Git/GitHub 🛠️
   - VSCode 🖥️
@@ -37,11 +45,7 @@ Aqui estão alguns dos projetos em que estou trabalhando:
 - **Loja de Brinquedos** 🔗
   - Uma loja de brinquedo que possibilita cadastrar, atualizar e deletar produtos dessas loja em um catálogo.
   - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Loja-Brinquedos.git)
-
-## 🌱 Estou Aprendendo
-- Desenvolvimento de aplicações em **Node.js** ☕
-- Ferramentas de automação e DevOps ⚙️
-
+    - 
 ## 🤝 Vamos Conversar!
 Sinta-se à vontade para entrar em contato! Adoraria trocar ideias sobre desenvolvimento e tecnologia. Você pode me encontrar em:
 - [GitHub](https://github.com/Byelsantos11)
