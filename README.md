@@ -28,6 +28,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
 - **Ferramentas**:
   - Git/GitHub 🛠️
   - VSCode 🖥️
+  - Eclipse 🖥️
 
 -**Metedologias**:
 -Scrum
