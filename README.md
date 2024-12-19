@@ -22,8 +22,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
   -  Cassandra 🧱
   -  MongoDB 🍃
 
- 
-
 - **Ferramentas**:
   - Git/GitHub 🛠️
   - VSCode 🖥️
