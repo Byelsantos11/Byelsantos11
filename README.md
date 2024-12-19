@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
 - 🎉 Bootstrap
 
 - **Backend**:
-  - Python 🐍
+  - kotlin ☕
   - Django 🚀
   - APIs RESTful 🔗
   - Java☕
@@ -29,13 +29,14 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
 ## 📈 Meus Projetos
 Aqui estão alguns dos projetos em que estou trabalhando:
 
-- **Sistema de Convites de Casamento** 🎉
-  - Um sistema para gerenciar convites e presentes, com gráficos de acompanhamento.
-  - [Veja o repositório aqui!](https://github.com/Byelsantos11/projeto_casamento)
+- **Viagens Aparecida**
+- Um sistema de de vendas de passagens para aparecida do norte que possibilita fazer sua reserva, deletar, atualizar e administrar outras informações do sistema como Admin.
+-  - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Projeto-Aparecida.git)
+
 
 - **Loja de Brinquedos** 🔗
-  - Uma loja de brinquedo que possbilitar cadastrar, atualizar e deletar produtos dessas loja em um catálogo.
-  - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Organizacao_casamento.git)
+  - Uma loja de brinquedo que possibilita cadastrar, atualizar e deletar produtos dessas loja em um catálogo.
+  - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Loja-Brinquedos.git)
 
 ## 🌱 Estou Aprendendo
 - Desenvolvimento de aplicações em **Node.js** ☕
