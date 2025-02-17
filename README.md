@@ -11,7 +11,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
 
 - **Backend**:
   - kotlin ☕
-  - Django 🚀
   - APIs RESTful 🔗
   - Java☕
   - Spring Boot 🌱
@@ -19,7 +18,6 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
   -  **Banco de Dados**:
   -  MySQL 🐬
   -  SQL 🖥️ 
-  -  Cassandra 🧱
   -  MongoDB 🍃
 
 - **Ferramentas**:
@@ -32,18 +30,8 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
 -Xp
 -devOps
 
-## 📈 Meus Projetos
-Aqui estão alguns dos projetos em que estou trabalhando:
-
-- **Viagens Aparecida**
-- Um sistema de de vendas de passagens para aparecida do norte que possibilita fazer sua reserva, deletar, atualizar e administrar outras informações do sistema como Admin.
--  - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Projeto-Aparecida.git)
 
 
-- **Loja de Brinquedos** 🔗
-  - Uma loja de brinquedo que possibilita cadastrar, atualizar e deletar produtos dessas loja em um catálogo.
-  - - [Veja o repositório aqui!](https://github.com/Byelsantos11/Loja-Brinquedos.git)
-    - 
 ## 🤝 Vamos Conversar!
 Sinta-se à vontade para entrar em contato! Adoraria trocar ideias sobre desenvolvimento e tecnologia. Você pode me encontrar em:
 - [GitHub](https://github.com/Byelsantos11)
