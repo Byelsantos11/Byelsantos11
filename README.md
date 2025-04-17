@@ -9,9 +9,11 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes! �
   - JavaScript 
 
 - **Backend**:
-  - APIs RESTful 
+  - APIs RESTful
+  - Microserviços 
   - Java
-  - Spring Boot 
+  - Spring Boot
+    
 
   -  **Banco de Dados**:
   -  MySQL 
